@@ -16,11 +16,12 @@ mp_selfie_segmentation = mp.solutions.selfie_segmentation
 
 
 
-DEMO_VIDEO = r"videos\Video.mp4"
-DEMO_FACE = r'images\Face.jpg'
-DEMO_BODY = r'images\Body.jpg'
-AVATAR = r"images\avata.jpg"
-DEMO_HAND = r'images\Hand.jpg'
+DEMO_VIDEO = "Video.mp4"
+DEMO_FACE = 'Face.jpg'
+DEMO_BODY = 'Body.jpg'
+AVATAR = "avata.jpg"
+DEMO_HAND = 'Hand.jpg'
+
 
 
 
