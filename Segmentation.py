@@ -16,11 +16,13 @@ mp_selfie_segmentation = mp.solutions.selfie_segmentation
 
 
 
-DEMO_VIDEO = r"C:\Users\Thinh\VsProjects\Detection\videos\Video.mp4"
-DEMO_FACE = r'C:\Users\Thinh\VsProjects\Detection\images\Face.jpg'
-DEMO_BODY = r'C:\Users\Thinh\VsProjects\Detection\images\Body.jpg'
-AVATAR = r"C:\Users\Thinh\VsProjects\Detection\images\avata.jpg"
-DEMO_HAND = r'C:\Users\Thinh\VsProjects\Detection\images\Hand.jpg'
+DEMO_VIDEO = r"videos\Video.mp4"
+DEMO_FACE = r'images\Face.jpg'
+DEMO_BODY = r'images\Body.jpg'
+AVATAR = r"images\avata.jpg"
+DEMO_HAND = r'images\Hand.jpg'
+
+
 
 
 st.title('TEAM TN - HH | HACKATHON 2022 | COMPUTER VISION APPLICATIONS')
